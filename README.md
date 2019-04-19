@@ -10,7 +10,7 @@ Application that allows you to test the speed of sorting algorithms.
 
   - C++
 
-# How use?
+# How to use?
 1) Clone or download this repository
 ```sh
 $ git clone https://github.com/aw0lf/sort-algorithms-tester
